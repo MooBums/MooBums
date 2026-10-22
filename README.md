@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ethan Molane 👋
 
 ### Software & Game Developer
 
@@ -23,7 +23,7 @@ I specialize in building cross-platform mobile applications, modular software ar
 * **Key Highlights:**
   * Custom Flutter/Dart UI component architecture from scratch for event and calendar management.
   * Local voice processing pipeline and on-device data persistence.
-* 🔗 **https://github.com/MooBums/Apollo**
+* 🔗 **[https://github.com/MooBums/Apollo]**
 
 #### 2. ⚔️ Defiance — 2D Side-Scrolling Metroidvania Brawler
 > *Game Development Project | C# & Unity*
@@ -31,7 +31,7 @@ I specialize in building cross-platform mobile applications, modular software ar
 * **Key Highlights:**
   * Programmed core combat and gameplay systems, including weapon degradation mechanics and shader-driven visual hit-flash feedback.
   * Coordinated within a multi-member development team structure following a multi-year production roadmap and pitch workflow.
-* 🔗 **https://github.com/MooBums/Defiance**
+* 🔗 **[https://github.com/MooBums/Defiance]**
 
 #### 3. 🖥️ Home Lab & Network Management Infrastructure
 > *Systems & Infrastructure | Ubuntu Linux, Docker & Pi-hole*
@@ -54,4 +54,4 @@ I specialize in building cross-platform mobile applications, modular software ar
 
 * **LinkedIn:** [https://www.linkedin.com/in/ethan-molane-80a4942a0]
 * **Email:** [ethangiovanni78@gmail.com\ethangiovanni78@outlook.com]
-* **CV / Resume:** [Link to PDF / Website]
+* **CV / Resume:** [https://drive.google.com/file/d/1IvaIhdkVPVXepzqRTFRtBELmU71gyZPm/view?usp=sharing]
