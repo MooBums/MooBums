@@ -54,4 +54,4 @@ I specialize in building cross-platform mobile applications, modular software ar
 
 * **LinkedIn:** [https://www.linkedin.com/in/ethan-molane-80a4942a0]
 * **Email:** [ethangiovanni78@gmail.com\ethangiovanni78@outlook.com]
-* **CV / Resume:** [https://drive.google.com/file/d/1IvaIhdkVPVXepzqRTFRtBELmU71gyZPm/view?usp=sharing]
+* **CV / Resume:** [https://drive.google.com/file/d/1Ota7LTrQN9EQJWL_6XK6ZnB6jlXZgd_g/view?usp=sharing]
